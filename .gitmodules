@@ -1,0 +1,3 @@
+[submodule "odoo_sale_purchase_to_account"]
+	path = odoo_sale_purchase_to_account
+	url = https://github.com/stayted/odoo_sale_purchase_to_account
